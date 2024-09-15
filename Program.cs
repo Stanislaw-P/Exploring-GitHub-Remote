@@ -12,6 +12,7 @@ namespace Exploring_GitHub
         {
             // изменение для подзадачи 1
             Console.WriteLine("Hello world!");
+            // изменения для подзадачи 2
         }
     }
 }
