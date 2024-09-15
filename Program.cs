@@ -10,6 +10,8 @@ namespace Exploring_GitHub
     {
         static void Main(string[] args)
         {
+            // изменение для подзадачи 1
+            Console.WriteLine("Hello world!");
         }
     }
 }
