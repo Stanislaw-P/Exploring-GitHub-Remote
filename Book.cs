@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exploring_GitHub
 {
-    internal class Book
+    public class Book
     {
     }
 }

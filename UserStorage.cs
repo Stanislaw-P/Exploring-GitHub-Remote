@@ -2,6 +2,6 @@
 {
     public class UserStorage
     {
-
+        // хранилище пользователей
     }
 }
