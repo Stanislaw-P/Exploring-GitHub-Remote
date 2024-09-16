@@ -11,8 +11,7 @@ namespace Exploring_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Одна строка");
-            // Перепрыгнул в ветку задачи 25
-            // 25 клуб
+          
         }
     }
 }
