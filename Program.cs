@@ -11,10 +11,7 @@ namespace Exploring_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Одна строка");
-          
-            // Сделал зменения для 7 задачи
-            
-            // Сделал изменения для 8 задачи
+            // Перепрыгнул в ветку задачи 25
         }
     }
 }
