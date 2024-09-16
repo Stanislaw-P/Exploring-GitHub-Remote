@@ -13,6 +13,8 @@ namespace Exploring_GitHub
             Console.WriteLine("Одна строка");
           
             // Сделал зменения для 7 задачи
+            
+            // Сделал изменения для 8 задачи
         }
     }
 }
