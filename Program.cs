@@ -11,6 +11,7 @@ namespace Exploring_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Одна строка");
+            // Возврат в основную ветку мастер
         }
     }
 }
