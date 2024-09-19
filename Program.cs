@@ -11,7 +11,7 @@ namespace Exploring_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Одна строка");
-          
+            // Изменения для 9 задачи
         }
     }
 }
